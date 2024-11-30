@@ -1,7 +1,3 @@
-Aqui está o **README.md** modificado com mais detalhes, visando um público iniciante:
-
----
-
 # Projeto Builder de Pizzas 🍕
 
 ## Descrição
